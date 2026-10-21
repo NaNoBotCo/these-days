@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "en": {
+      "lang": "en",
+      "title": "These Days · NaN",
+      "q": "So what are you staying busy with these days?",
+      "a": "Mostly Mot Dang, a city directory for Chiang Mai and Chiang Rai, and what grows out of it. With Beer and a small team.",
+      "desc": "What NaN is busy with: Mot Dang, Hongdam, wichaa, paid work for people and bots, minisites drawn with math, and Rotary.",
+      "card_title": "So what are you staying busy with these days?",
+      "card_line": "Mot Dang, Hongdam, wichaa, and a lot of minisites.",
+      "records": "records on Mot Dang",
+      "sites": "sites on GitHub",
+      "counted": "counted",
+      "more": "More",
+      "index": "Everything, counted",
+      "impossible": "Ten Impossible Problems",
+      "support": "Support Mot Dang",
+      "hello": "Say hello",
+      "switch": "ไทย",
+      "switch_href": "th/"
+    },
+    "th": {
+      "lang": "th",
+      "title": "ช่วงนี้ · NaN",
+      "q": "ช่วงนี้ยุ่งอยู่กับอะไรบ้าง?",
+      "a": "ส่วนใหญ่ทำมดแดง สมุดรายชื่อเมืองเชียงใหม่และเชียงราย กับงานที่งอกออกมาจากมัน ทำกับเบียร์และทีมเล็ก ๆ",
+      "desc": "ช่วงนี้ NaN ทำอะไรอยู่: มดแดง หงส์ดำ วิชา งานมีค่าจ้างสำหรับคนและบอท มินิไซต์ที่วาดด้วยคณิตศาสตร์ และโรตารี",
+      "card_title": "ช่วงนี้ยุ่งอยู่กับอะไรบ้าง?",
+      "card_line": "มดแดง หงส์ดำ วิชา และมินิไซต์อีกเพียบ",
+      "records": "รายการบนมดแดง",
+      "sites": "เว็บบน GitHub",
+      "counted": "นับเมื่อ",
+      "more": "เพิ่มเติม",
+      "index": "นับทุกอย่าง",
+      "impossible": "สิบโจทย์ที่ว่าทำไม่ได้",
+      "support": "สนับสนุนมดแดง",
+      "hello": "ทักทาย",
+      "switch": "EN",
+      "switch_href": "../"
+    }
+  },
+  "sections": [
+    {
+      "key": "motdang",
+      "en": ["Mot Dang", "A city directory for Chiang Mai and Chiang Rai, in Thai and English."],
+      "th": ["มดแดง", "สมุดรายชื่อเมืองเชียงใหม่และเชียงราย ภาษาไทยและอังกฤษ"],
+      "items": [
+        {"url": "https://motdang.net/", "en": ["motdang.net", "The city today: map, weather, what's on."], "th": ["motdang.net", "เมืองวันนี้: แผนที่ อากาศ มีงานอะไรบ้าง"]},
+        {"url": "https://motdang.net/find", "en": ["Search", "Places, events and quick answers."], "th": ["ค้นหา", "สถานที่ งาน และคำตอบสั้น ๆ"]},
+        {"url": "https://sites.motdang.net/", "en": ["Your own page", "A shop's page, drawn and online in five minutes."], "th": ["เว็บของคุณเอง", "หน้าเว็บของร้าน วาดเสร็จ ขึ้นเว็บในห้านาที"]},
+        {"url": "https://motdang.net/markets/", "en": ["Markets", "Markets and malls, each with its own page."], "th": ["ตลาด", "ตลาดและห้าง แต่ละแห่งมีหน้าของตัวเอง"]},
+        {"url": "https://motdang.net/markets/cm/kamthieng/amulets/", "en": ["Amulet sellers", "The stalls at Kamthieng market, a page and a table sign each."], "th": ["แผงพระ", "แผงพระที่ตลาดคำเที่ยง แต่ละแผงมีหน้าเว็บและป้ายตั้งโต๊ะ"]},
+        {"url": "https://motdang.net/parking/", "en": ["Parking", "Where to park, whether it's full, and where you left the scooter."], "th": ["ที่จอดรถ", "จอดที่ไหน เต็มหรือยัง และจอดรถไว้ตรงไหน"]},
+        {"url": "https://motdang.net/field/", "en": ["Field", "Rides with a camera; places added from their own signs."], "th": ["ภาคสนาม", "ขี่รถถ่ายภาพ เพิ่มสถานที่จากป้ายของร้านเอง"]}
+      ]
+    },
+    {
+      "key": "minisites",
+      "en": ["Minisites", "One subject each, on Mot Dang."],
+      "th": ["มินิไซต์", "เรื่องละเว็บ บนมดแดง"],
+      "items": [
+        {"url": "https://motdang.net/sites/lanna-craft/", "en": ["Lanna Craft", "Viharn, nagas and chedis, drawn with math."], "th": ["ช่างล้านนา", "วิหาร นาค และเจดีย์ วาดด้วยคณิตศาสตร์"]},
+        {"url": "https://motdang.net/sites/spirit-house/", "en": ["The Spirit House Manual", "Five models, the morning tray, and where it stands."], "th": ["คู่มือศาลพระภูมิ", "ห้าแบบ ถาดเช้า และตั้งตรงไหน"]},
+        {"url": "https://motdang.net/sites/expat-toolkit/", "en": ["Expat Survival Toolkit", "Visas, papers, homes, roads and health in the north."], "th": ["ชุดเอาตัวรอดสำหรับชาวต่างชาติ", "วีซ่า เอกสาร บ้าน ถนน และสุขภาพในภาคเหนือ"]},
+        {"url": "https://motdang.net/sites/send-it/", "en": ["Send It", "Bags, boxes and scooters around Thailand."], "th": ["ส่งของ", "ส่งถุง กล่อง และมอเตอร์ไซค์ไปทั่วไทย"]},
+        {"url": "https://motdang.net/sites/chiang-mai-osaka/", "en": ["Chiang Mai → Osaka", "The nonstop flight and its fares."], "th": ["เชียงใหม่ → โอซาก้า", "เที่ยวบินตรงและราคาตั๋ว"]},
+        {"url": "https://motdang.net/sites/doodle-map/", "en": ["Chiang Mai, Doodled", "The city as a drawn map."], "th": ["เชียงใหม่ วาดเล่น", "ทั้งเมืองเป็นแผนที่วาด"]},
+        {"url": "https://motdang.net/sites/rider/", "en": ["Rider", "A daily delivery puzzle on the city's roads."], "th": ["ไรเดอร์", "เกมส่งของรายวันบนถนนของเมือง"]},
+        {"url": "https://motdang.net/sites/thai-drawn/", "en": ["Thai, Drawn", "Learning Thai, in pictures."], "th": ["ภาษาไทย วาดให้ดู", "เรียนภาษาไทยด้วยภาพ"]},
+        {"url": "https://motdang.net/sites/georgism/", "en": ["Georgism", "Land, rent and the Landlord's Game, as toys."], "th": ["จอร์จิสม์", "ที่ดิน ค่าเช่า และเกมเจ้าของที่ดิน เป็นของเล่น"]},
+        {"url": "https://motdang.net/sites/bum-gun/", "en": ["How to Use a Bum Gun", "The Thai bathroom hose, explained."], "th": ["วิธีใช้สายฉีดชำระ", "สายฉีดในห้องน้ำไทย อธิบายให้ฟัง"]}
+      ]
+    },
+    {
+      "key": "work",
+      "en": ["Work for people and bots", "Small paid jobs."],
+      "th": ["งานสำหรับคนและบอท", "งานเล็ก ๆ มีค่าจ้าง"],
+      "items": [
+        {"url": "https://motdang.net/anthill/work", "en": ["The Anthill", "Place checks done from a screen, paid Mondays."], "th": ["รังมด", "ตรวจสถานที่จากหน้าจอ จ่ายทุกวันจันทร์"]},
+        {"url": "https://hongdam.net/tasks", "en": ["Tasks", "A board of jobs, and who can do them."], "th": ["งาน", "กระดานงาน และใครทำได้"]},
+        {"url": "https://hongdam.net/bots/", "en": ["Bots for sale", "A bot sold us a road. We built three bots."], "th": ["บอทขาย", "บอทขายถนนให้เรา เราเลยสร้างบอทสามตัว"]}
+      ]
+    },
+    {
+      "key": "studio",
+      "en": ["Hongdam and the Visa Desk", "Web work and paperwork."],
+      "th": ["หงส์ดำ และเชียงใหม่วีซ่าเดสก์", "งานเว็บ และงานเอกสาร"],
+      "items": [
+        {"url": "https://hongdam.net/", "en": ["Hongdam", "Bilingual web studio, Chiang Rai."], "th": ["หงส์ดำ", "สตูดิโอทำเว็บสองภาษา เชียงราย"]},
+        {"url": "https://hongdam.net/github/", "en": ["Pimp my GitHub", "GitHub profiles, made over in a day."], "th": ["แต่ง GitHub ให้เทพ", "ปรับโปรไฟล์ GitHub เสร็จในวันเดียว"]},
+        {"url": "https://chiangmaivisadesk.com/", "en": ["Chiang Mai Visa Desk", "Work permits, company registration, extensions."], "th": ["เชียงใหม่วีซ่าเดสก์", "ใบอนุญาตทำงาน จดบริษัท ต่อวีซ่า"]},
+        {"url": "https://nanobotco.github.io/getting-in/", "en": ["Getting In", "ID.me and VA.gov for veterans and widows abroad, in 12 languages."], "th": ["Getting In", "ID.me และ VA.gov สำหรับทหารผ่านศึกและคู่สมรสในต่างประเทศ 12 ภาษา"]}
+      ]
+    },
+    {
+      "key": "wichaa",
+      "en": ["wichaa", "Lanna manuscripts, amulets, and the dharma."],
+      "th": ["วิชา", "คัมภีร์ล้านนา พระเครื่อง และธรรมะ"],
+      "items": [
+        {"url": "https://wichaa.net/", "en": ["wichaa.net", "Lanna manuscripts, the amulet market, and the traditions around them."], "th": ["wichaa.net", "คัมภีร์ใบลานล้านนา ตลาดพระ และประเพณีรอบ ๆ"]},
+        {"url": "https://wichaa.net/dharma/", "en": ["Dharma", "The word across languages and faiths; the wat as a busy, colourful place."], "th": ["ธรรม", "คำนี้ในหลายภาษาและหลายศาสนา วัดเป็นที่ที่คึกคักและมีสีสัน"]},
+        {"url": "https://wichaa.net/amulets/", "en": ["Amulets", "The amulet catalogue."], "th": ["พระเครื่อง", "แคตตาล็อกพระเครื่อง"]},
+        {"url": "https://sites.motdang.net/amulet-price", "en": ["Amulet prices", "Auction results as a price guide."], "th": ["ราคาพระ", "ผลประมูลเป็นแนวทางราคา"]},
+        {"url": "https://nanobotco.github.io/amulet-camera/", "en": ["Amulet Camera", "Photograph an amulet, get a clean cutout."], "th": ["กล้องพระ", "ถ่ายพระ ได้ภาพตัดพื้นหลัง"]}
+      ]
+    },
+    {
+      "key": "drawn",
+      "en": ["Drawn with math", "Explainers on GitHub, one subject each."],
+      "th": ["วาดด้วยคณิตศาสตร์", "เว็บอธิบายบน GitHub เรื่องละเว็บ"],
+      "items": [
+        {"url": "https://nanobotco.github.io/golden-gate/", "en": ["The Golden Gate Bridge", "Drawn from its numbers under the live sun, fog and tide."], "th": ["สะพานโกลเดนเกต", "วาดจากตัวเลขของสะพาน ใต้แดด หมอก และน้ำขึ้นน้ำลงตอนนี้"]},
+        {"url": "https://nanobotco.github.io/warp-and-weft/", "en": ["Warp and Weft", "Silk and weaving, and a loom weaving a Khmer hol."], "th": ["เส้นยืน เส้นพุ่ง", "ไหมและการทอ กับกี่ที่ทอผ้าโฮลเขมร"]},
+        {"url": "https://nanobotco.github.io/bayeux-tapestry/", "en": ["The Bayeux Tapestry, Unrolled", "All 58 scenes, end to end."], "th": ["พรมผนังบาเยอ คลี่ทั้งผืน", "ครบ 58 ฉาก ตั้งแต่ต้นจนจบ"]},
+        {"url": "https://nanobotco.github.io/voynich/", "en": ["The Voynich Manuscript", "How people try to read it, with live toys."], "th": ["ข้อเขียนวอยนิช", "คนพยายามอ่านมันยังไง พร้อมของเล่น"]},
+        {"url": "https://nanobotco.github.io/fractals/", "en": ["Play with Fractals", "Snowflakes, ferns, dragons and the Mandelbrot set."], "th": ["เล่นกับแฟร็กทัล", "เกล็ดหิมะ เฟิร์น มังกร และเซตมานเดลบรอต"]},
+        {"url": "https://nanobotco.github.io/birds-chiang-mai/", "en": ["Birds of Chiang Mai", "23 birds under the live sky over Doi Suthep."], "th": ["นกเชียงใหม่", "นก 23 ชนิด ใต้ท้องฟ้าดอยสุเทพตอนนี้"]},
+        {"url": "https://nanobotco.github.io/thai-time/", "en": ["Telling Time in Thai", "The six-hour clock of gong and drum."], "th": ["บอกเวลาแบบไทย", "นาฬิกาหกชั่วโมงของฆ้องและกลอง"]},
+        {"url": "https://nanobotco.github.io/tham-luang/", "en": ["Tham Luang, Drawn", "The 2018 cave rescue, eighteen days."], "th": ["ถ้ำหลวง วาดด้วยคณิต", "ภารกิจกู้ภัยในถ้ำปี 2561 สิบแปดวัน"]},
+        {"url": "https://nanobotco.github.io/ghosts-drawn/", "en": ["Ghosts, Drawn", "Lanna and Thai ghosts as cartoons."], "th": ["ผีเหนือ ผีไทย", "ผีล้านนาและผีไทยเป็นการ์ตูน"]},
+        {"url": "https://nanobotco.github.io/gargoyles/", "en": ["Gargoyles, Drawn", "Gargoyles and their cousins around the world."], "th": ["การ์กอยล์ วาดด้วยคณิต", "การ์กอยล์และญาติ ๆ ทั่วโลก"]},
+        {"url": "https://nanobotco.github.io/bag-knots/", "en": ["Bag Knots", "Every way a Thai shop ties a bag shut."], "th": ["มัดถุง", "ร้านไทยมัดถุงกันยังไงบ้าง"]},
+        {"url": "https://nanobotco.github.io/lersi/", "en": ["Lersi", "41 hermit's stretches in a gilt Lanna niche."], "th": ["ฤๅษีดัดตน", "41 ท่า ในซุ้มล้านนาปิดทอง"]}
+      ]
+    },
+    {
+      "key": "rotary",
+      "en": ["Rotary", "Chiang Mai International Rotary Club."],
+      "th": ["โรตารี", "สโมสรโรตารีเชียงใหม่อินเตอร์เนชั่นแนล"],
+      "items": [
+        {"url": "https://sites.motdang.net/cwsdpp", "en": ["Children's Water Safety", "Survival swimming for about 750 fourth-graders a year."], "th": ["ความปลอดภัยทางน้ำสำหรับเด็ก", "สอนว่ายน้ำเอาตัวรอดให้นักเรียน ป.4 ราว 750 คนต่อปี"]},
+        {"url": "https://nanobotco.github.io/golf-ball-drop/", "en": ["Golf Ball Drop 2027", "Sat 30 Jan 2027: 300 numbered balls from a hot-air balloon."], "th": ["งานทิ้งลูกกอล์ฟการกุศล", "เสาร์ 30 ม.ค. 2570: ลูกกอล์ฟติดเบอร์ 300 ลูกจากบอลลูน"]}
+      ]
+    }
+  ],
+  "footer": {
+    "index": "https://nanobotco.github.io/index/",
+    "impossible": "https://nanobotco.github.io/impossible/",
+    "support": "https://sites.motdang.net/support",
+    "email": "nan@motdang.net"
+  }
+}
